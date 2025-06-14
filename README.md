@@ -22,14 +22,3 @@ Publisher: CHISEL
 Based on surveys by: Alif Ailaan & ASER Pakistan  
 Data Type: Consolidated, non-geospatial  
 Last Updated: April 5, 2021
-
-## Project Structure
-literacy-analysis-project/
-├── consolidated-educational-dataset.csv # Cleaned dataset
-├── literacy_model.ipynb # Main notebook
-├── literacy_model.pkl # Trained Random Forest model
-├── le_province.pkl # Saved LabelEncoder for Province
-├── le_city.pkl # Saved LabelEncoder for City
-├── le_educlass.pkl # Saved LabelEncoder for EduClass
-├── README.md # Project documentation
-└── requirements.txt # Dependencies
